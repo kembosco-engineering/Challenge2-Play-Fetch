@@ -1,0 +1,2 @@
+# Challenge2 Play Fetch
+ This is the second challenge in Unity 2 - Basic Gameplay course in Unity Create with Code projects. I used my array and random number generation skills to program this challenge where balls are randomly falling from the sky and I have to send my dog out to catch them before they hit the ground. To complete this challenge, I will have to make sure my variables are assigned properly, my if-statements are programmed correctly, my collisions are being detected perfectly, and that objects are being generated randomly.
